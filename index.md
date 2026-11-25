@@ -38,7 +38,7 @@ Bachelor of Science, Consumer Affairs | Division I Student Athlete, Football/Tra
 
 #### Senior Business Information Security Officer | Sr. BISO (2026 – Present)
 
-The mini-CISO for our State Public Sector Clients BU. Serving as the primary liaison between business and information security, supporting customer trust, contract wins, and retention through clear security assurance, contract negotiation support, and client-facing security engagements. Translating technical and regulatory controls into business commitments, led customer discussions on security and risk posture, and implemented repeatable processes for security documentation and ongoing customer reporting.
+The functional CISO for our State Public Sector Clients BU. Serving as the primary liaison between business and information security, supporting customer trust, contract wins, and retention through clear security assurance, contract negotiation support, and client-facing security engagements. Translating technical and regulatory controls into business commitments, led customer discussions on security and risk posture, and implemented repeatable processes for security documentation and ongoing customer reporting.
 
 - Served as the primary liaison between business operations, customers, and Information Security, building trust and supporting retention across all 27 State Public Sector (SPS) customers through transparent security engagement and assurance.
 - Partnered with Sales, Legal, Privacy, and Compliance teams to negotiate customer contracts, ensuring security, privacy, regulatory, and data protection requirements aligned with enterprise capabilities and risk tolerance.
